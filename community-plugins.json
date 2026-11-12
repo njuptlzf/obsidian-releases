@@ -71839,5 +71839,12 @@
     "author": "KillSwitch10",
     "description": "Sync tagged Tasks lines with your own PeckList server, both ways: titles, dates, priority, tags, repeats and done. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "killswitchio/pecklist-obsidian"
+  },
+  {
+    "id": "load-image",
+    "name": "Load Image",
+    "author": "njuptlzf",
+    "description": "Paste an image into a configurable folder: next to the note, a relative directory, or an absolute path from the vault root. Missing folders are created automatically.",
+    "repo": "njuptlzf/obsidian-load-image"
   }
 ]
